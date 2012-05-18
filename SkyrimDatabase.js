@@ -276,12 +276,13 @@ AllPerks[1402] = new Perk(1402, "Stealth 3", "60% harder to detect.", 1401, 0, 6
 AllPerks[1403] = new Perk(1403, "Stealth 4", "80% harder to detect.", 1402, 0, 80);
 AllPerks[1404] = new Perk(1404, "Stealth 5", "100% harder to detect.", 1403, 0, 100);
 AllPerks[1405] = new Perk(1405, "Muffled Movement", "Noise from armor reduced 50%", 1400, 0, 30);
-AllPerks[1406] = new Perk(1406, "Light Foot", "Sprinting when sneaking executes forward roll", 1405, 0, 50);
-AllPerks[1407] = new Perk(1407, "Slience", "Walking and running does not affect detection", 1406, 0, 70);
-AllPerks[1408] = new Perk(1408, "Shadow Warrior", "Crouching stops combat and forces distant opponents to search for target.", 1407, 0, 100);
-AllPerks[1409] = new Perk(1409, "Backstab", "Sneak attacks with one-handed weapons do 6x damage.", 1400, 0, 30);
-AllPerks[1410] = new Perk(1410, "Deadly Aim", "Sneak attacks with bows do 3x damage.", 1409, 0, 40);
-AllPerks[1411] = new Perk(1411, "Assasin's Blade", "Sneak attacks with daggers do 15x damage.", 1410, 0, 50);
+AllPerks[1406] = new Perk(1406, "Light Foot", "You won't trigger pressure plates", 1405, 0, 40);
+AllPerks[1407] = new Perk(1407, "Silent Roll", "Sprinting when sneaking executes forward roll", 1406, 0, 50);
+AllPerks[1408] = new Perk(1408, "Silence", "Walking and running does not affect detection", 1407, 0, 70);
+AllPerks[1409] = new Perk(1409, "Shadow Warrior", "Crouching stops combat and forces distant opponents to search for target.", 1408, 0, 100);
+AllPerks[1410] = new Perk(1410, "Backstab", "Sneak attacks with one-handed weapons do 6x damage.", 1400, 0, 30);
+AllPerks[1411] = new Perk(1411, "Deadly Aim", "Sneak attacks with bows do 3x damage.", 1410, 0, 40);
+AllPerks[1412] = new Perk(1412, "Assasin's Blade", "Sneak attacks with daggers do 15x damage.", 1411, 0, 50);
 
 // Lockpicking
 
